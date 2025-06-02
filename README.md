@@ -19,7 +19,8 @@ A learning repository for practicing and building backend development skills usi
 ## 🛠 Tech Stack
 - Java • Node.js • MySQL • MongoDB
 - Git & GitHub • Postman • Docker
-- **AWS (EC2, S3)** • **Microsoft Azure**
+- ☁️ **Cloud**: ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+
 
 ## 📚 Learning In Progress
 - RESTful API design
